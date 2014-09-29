@@ -245,7 +245,7 @@ $string['photovalidated'] = 'These photos are validated: ';
 $string['permissiondenied'] = 'You don\'t have the permission to access this page.';
 
 //Menu
-$string['validationlink'] = 'Validation of student\’s pictures';
+$string['validationlink'] = 'Validation of student\'s pictures';
 $string['verificationlink'] = 'Verification of certificate';
 $string['archivelink'] = 'Archive';
 
