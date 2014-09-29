@@ -10,7 +10,7 @@
  */
 
 $module->version  = 2014092900; // The current module version (Date: YYYYMMDDXX)
-$module->requires = 2013051405;  // Requires this Moodle version
+$module->requires = 2013051400;  // Requires this Moodle version
 $module->cron     = 4 * 3600;    // Period for cron to check this module (secs)
 $module->release  = '1.0.0';       // Human-friendly version name
 //MATURITY_ALPHA, MATURITY_BETA, MATURITY_RC, MATURITY_STABLE

@@ -84,6 +84,7 @@ function customcertificate_update_instance($certificate, $mform=null) {
     if ($mform) {
         $images = customcertificate_process_form_files($mform, $context);
     }
+    $certificate->certificateimage = $images[0];
 
     // process the custom wysiwyg editors
     $certificate->certificatetext = $certificate->certificatetext['text'];
