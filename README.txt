@@ -14,12 +14,12 @@ create a repository of your own on github.com.
 Information on installing git - http://help.github.com/set-up-git-redirect/
 
 Once you have git installed, simply visit the Moodle mod directory and clone
-git://github.com/loise/moodle-mod_customcertificate.git, remember to
+git://github.com/W3DevCampus/moodle-mod_customcertificate.git, remember to
 rename the folder to certificate if you do not specify this in the clone command
 
 Eg. Linux command line would be as follow -
 
-git clone git://github.com/loise/moodle-mod_customcertificate.git customcertificate
+git clone git://github.com/W3DevCampus/moodle-mod_customcertificate.git customcertificate
 
 Once cloned, checkout the branch that is specific to your Moodle version.
 eg, MOODLE_22 is for Moodle 2.2, MOODLE_23 is for 2.3
@@ -28,10 +28,10 @@ Use git pull to update this branch periodically to ensure you have the latest ve
 
 ==================== Download the customcertificate module. ====================
 
-Visit https://github.com/Loise/moodle-mod_customcertificate, choose the branch
+Visit https://github.com/W3DevCampus/moodle-mod_customcertificate, choose the branch
 that matches your Moodle version (eg. MOODLE_22 is for Moodle 2.2, MOODLE_23 is for 2.3)
 and download the zip, uncompress this zip and extract the folder. The folder will have a 
-name similar to loise-moodle-mod_customcertificate-c9fbadb, you MUST rename this to customcertificate. 
+name similar to W3DevCampus-moodle-mod_customcertificate-c9fbadb, you MUST rename this to customcertificate. 
 Place this folder in your mod folder in your Moodle directory.
 
 nb. The reason this is not the recommended method is due to the fact you have
